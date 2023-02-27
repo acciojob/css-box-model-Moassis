@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+.d1{
+    width:300px;
+    padding:50px;
+    background-color:lightblue;
+    border-width: 15px;
+    border-style: solid;
+    border-color:blue;
+    margin:20px;
+}
